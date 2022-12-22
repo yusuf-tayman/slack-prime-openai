@@ -20,7 +20,7 @@ pip install slack_bolt openai
 * Set up a Slack bot and obtain the bot's API token.
 * Set up an OpenAI API key.
 * Set the SLACK_BOT_TOKEN and OPENAI_API_KEY environment variables with the values of your bot's API token and OpenAI API key, respectively.
-* Run the app.py file to start the bot.
+* Run the main.py file to start the bot.
 * In a Slack channel, mention the bot and ask it any question. The bot will use OpenAI's GPT-3 model to generate an answer.
 
 * Note: The bot will only respond to messages that specifically mention it.
